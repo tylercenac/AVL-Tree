@@ -1,0 +1,14 @@
+523		//Successor of 400
+400		//Predecessor of 523
+100		//Minimum
+944		//Maximum
+523		//Successor of 520
+690		//Predecessor of 700
+42		//Minimum
+991		//Maximum
+42, 100, 120, 150, 200, 295, 321, 350, 352, 400, 428, 429, 520, 523, 542, 546, 567, 568, 639, 677, 678, 689, 690, 700, 747, 766, 767, 778, 779, 833, 873, 935, 943, 944, 991, 	//Traversal
+400		//Select 10
+428		//Select 11
+2		//Rank 100
+35		//Rank 991
+13507.6 micro-sec
